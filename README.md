@@ -1,4 +1,4 @@
-# QuestionApp (Full Stack Application)
+# QuestionApp (Full Stack Web Application)
 
 QuestionApp, kullanıcıların tartışmalara katılabileceği, içerik paylaşabileceği ve gönderileri yönetebileceği bir platform olarak tasarlanmış Java tabanlı bir web uygulamasıdır. Bir forum veya blog gibi işlev görerek, etkileşim ve içerik yönetimi için kullanıcı dostu bir arayüz sunar.
 
